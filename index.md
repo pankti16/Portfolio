@@ -1,5 +1,13 @@
 My Live Projects
 
+<a href='https://play.google.com/store/apps/details?id=com.easi'>Easi Cleans App</a>
+
+<a href='https://play.google.com/store/apps/details?id=com.gloryofindiatoronto'>Glory Of India</a>
+
+<a href='https://play.google.com/store/apps/details?id=com.fudme.justinospizza'>Justino's Wood Oven Pizza</a>
+
+<a href='https://play.google.com/store/apps/details?id=com.fudme.fudme'>Foodme Multicuisine Restaurant</a>
+
 <a href='https://apps.apple.com/in/app/fashionera-dress-up-game/id1481441091'>Fashionera iOS App</a>
 
 <a href='https://play.google.com/store/apps/details?id=com.kyraa.textify'>Textify App</a>
