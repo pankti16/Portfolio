@@ -8,6 +8,14 @@ My Live Projects
 
 <a href='https://play.google.com/store/apps/details?id=com.fudme.fudme'>Foodme Multicuisine Restaurant</a>
 
+<a href='https://play.google.com/store/apps/details?id=com.namasteremittance'>Namaste Remittance</a>
+
+<a href='https://play.google.com/store/apps/details?id=com.skweeble'>Skweeble: Jobs on Demand</a>
+
+<a href='https://play.google.com/store/apps/details?id=com.vdodirectory'>VDO Directory</a>
+
+<a href='https://play.google.com/store/apps/details?id=com.ebhancha'>ebhancha</a>
+
 <a href='https://apps.apple.com/in/app/fashionera-dress-up-game/id1481441091'>Fashionera iOS App</a>
 
 <a href='https://play.google.com/store/apps/details?id=com.kyraa.textify'>Textify App</a>
