@@ -16,7 +16,13 @@ My Live Projects
 
 <a href='https://play.google.com/store/apps/details?id=com.ebhancha'>ebhancha</a>
 
+<a href='https://play.google.com/store/apps/details?id=com.Techavtra.Shadesofshades'>Shades Of Shades</a>
+
 <a href='https://apps.apple.com/in/app/fashionera-dress-up-game/id1481441091'>Fashionera iOS App</a>
+
+<a href='https://play.google.com/store/apps/details?id=kyraa.particle.status.maker.vbit'>Particle Status Maker Vbit</a>
+
+<a href='https://play.google.com/store/apps/details?id=kyraa.parallely.shadero.statusmaker'>Parallely Video Status Maker</a>
 
 <!-- <a href='https://play.google.com/store/apps/details?id=com.kyraa.textify'>Textify App</a>
 
