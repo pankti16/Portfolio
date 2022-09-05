@@ -14,7 +14,7 @@ My Live Projects
 
 <a href='https://play.google.com/store/apps/details?id=com.vdodirectory'>VDO Directory</a>
 
-<a href='https://play.google.com/store/apps/details?id=com.ebhancha'>ebhancha</a>
+<!-- <a href='https://play.google.com/store/apps/details?id=com.ebhancha'>ebhancha</a> -->
 
 <a href='https://play.google.com/store/apps/details?id=com.Techavtra.Shadesofshades'>Shades Of Shades</a>
 
