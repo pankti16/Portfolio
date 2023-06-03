@@ -7,6 +7,16 @@ My Live Projects
 
 <a href='https://apps.apple.com/us/app/love-expands-be-inspired/id1603769831'>Love Expands iOS App</a>
 
+<a href='https://play.google.com/store/apps/details?id=com.fotin.beyondbreakup'>Beyond Breakup</a>
+
+<a href='https://play.google.com/store/apps/details?id=com.adivineshop'>Divine Shop</a>
+
+<a href='https://play.google.com/store/apps/details?id=com.glsnowapp'>GLS Now</a>
+
+<a href='https://play.google.com/store/apps/details?id=com.safesolutions'>Safe Solutions</a>
+
+<a href='https://play.google.com/store/apps/details?id=com.visionarypirate'>Visionarypirate India</a>
+
 <a href='https://play.google.com/store/apps/details?id=com.easi'>Easi Cleans App</a>
 
 <a href='https://play.google.com/store/apps/details?id=com.gloryofindiatoronto'>Glory Of India</a>
