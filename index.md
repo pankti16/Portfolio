@@ -1,6 +1,5 @@
 My Live Projects
 
-
 <a href='https://play.google.com/store/apps/details?id=com.sangini.android'>Sangini Android App</a>
 
 <a href='https://apps.apple.com/au/app/sangini/id1619040092'>Sangini iOS App</a>
